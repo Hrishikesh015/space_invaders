@@ -1,7 +1,5 @@
-#!/usr/bin/env python
-
 # Space Invaders
-# Created by Lee Robinson
+# Created by Hrishikesh Koundinya
 
 from pygame import *
 import sys
